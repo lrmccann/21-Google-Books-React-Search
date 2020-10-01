@@ -1,0 +1,1 @@
+React application using the Google Books Search app, to create a user friendly app to keep track of your favorite books as well as reading time. In this app I used React components, lifecycle methods, Node, Express for routing and mongoDB to store user information.
